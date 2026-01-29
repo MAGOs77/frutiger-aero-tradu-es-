@@ -30,7 +30,7 @@ body {
 }
 
 .caixa_maior {
-    background-color: rgb(152, 229, 243);
+    background-color: rgb(255, 255, 255);
     width: 500px;
     border-radius: 20px;
     padding: 20px;
@@ -129,6 +129,7 @@ button img {
     opacity: 0.9;
 
     font-weight: normal;
+
 
 
 }
